@@ -19,4 +19,7 @@
 | Chapter 12 | [notebooks/ds_bookcamp_12.ipynb](notebooks/ds_bookcamp_12.ipynb) |
 | Chapter 13 | [notebooks/ds_bookcamp_13.ipynb](notebooks/ds_bookcamp_13.ipynb) |
 | Chapter 14 | [notebooks/ds_bookcamp_14.ipynb](notebooks/ds_bookcamp_14.ipynb) |
+| Chapter 15 | [notebooks/ds_bookcamp_15.ipynb](notebooks/ds_bookcamp_15.ipynb) |
+| Chapter 16 | [notebooks/ds_bookcamp_16.ipynb](notebooks/ds_bookcamp_16.ipynb) |
+| Chapter 17 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_17.ipynb) |
 
