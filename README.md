@@ -22,9 +22,9 @@
 | Chapter 15 | [notebooks/ds_bookcamp_15.ipynb](notebooks/ds_bookcamp_15.ipynb) |
 | Chapter 16 | [notebooks/ds_bookcamp_16.ipynb](notebooks/ds_bookcamp_16.ipynb) |
 | Chapter 17 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_17.ipynb) |
-| Chapter 18 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_18.ipynb) |
-| Chapter 19 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_19.ipynb) |
-| Chapter 20 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_20.ipynb) |
-| Chapter 21 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_21.ipynb) |
-| Chapter 22 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_22.ipynb) |
-| Chapter 23 | [notebooks/ds_bookcamp_17.ipynb](notebooks/ds_bookcamp_23.ipynb) |
+| Chapter 18 | [notebooks/ds_bookcamp_18.ipynb](notebooks/ds_bookcamp_18.ipynb) |
+| Chapter 19 | [notebooks/ds_bookcamp_19.ipynb](notebooks/ds_bookcamp_19.ipynb) |
+| Chapter 20 | [notebooks/ds_bookcamp_20.ipynb](notebooks/ds_bookcamp_20.ipynb) |
+| Chapter 21 | [notebooks/ds_bookcamp_21.ipynb](notebooks/ds_bookcamp_21.ipynb) |
+| Chapter 22 | [notebooks/ds_bookcamp_22.ipynb](notebooks/ds_bookcamp_22.ipynb) |
+| Chapter 23 | [notebooks/ds_bookcamp_23.ipynb](notebooks/ds_bookcamp_23.ipynb) |
