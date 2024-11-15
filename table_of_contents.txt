@@ -1,0 +1,101 @@
+Case Study 1: Finding the Winning Strategy in a Card Game.
+
+Section 1: Computing Probabilities Using Python
+1.1 Sample Space Analysis: An Equation-Free Approach for Measuring Uncertainty in Outcomes.
+1.2 Computing Non-Trivial Probabilities
+1.3 Computing Probabilities over Interval Ranges
+
+Section 2: Plotting Probabilities Using Matplotlib
+2.1. Basic Matplotlib plots
+2.2. Plotting Coin-flip Probabilities.
+
+
+Section 3: Executing Randomized Numerical Simulations Using Python
+3.1. Simulating Random Observations Using NumPy
+3.2. Computing Confidence Intervals Using Histograms and NumPy Arrays
+3.3. Using Confidence Intervals to Analyze a Biased Deck of Cards
+3.4. Using Permutations to Shuffle Cards
+
+Section 4: Case Study 1 Solution
+4.1. Overview
+4.2. Predicting Red Cards within a Shuffled Deck
+4.3. Estimating the Probability of Strategy Success
+4.4 Key Takeaways
+
+Case Study 2: Assessing Online Ad-Clicks for Significance
+
+Section 5: Basic Probability and Statistical Analysis Using SciPy
+5.1. Exploring the Relationships between Data and Probability Using SciPy
+5.2. Mean as a Measure of Centrality
+5.3. Variance as a Measure of Dispersion
+
+Section 6: Making Predictions Using the Central Limit Theorem and SciPy
+6.1. Manipulating the Shape of the Normal Distribution Using SciPy
+6.2. Determining the Mean and Variance of a Random Population through Random Sampling
+6.3. Predicting Population Properties from Sampled Data
+
+Section 7: Statistical Hypothesis Testing
+7.1. Assessing the Divergence Between Sample Mean and Population Mean
+7.2. Data Dredging: Coming to False Conclusions through Oversampling
+7.3. Bootstrapping with Replacement: Testing a Hypothesis When the Population Variance is Unknown
+7.4. Permutation Testing: Comparing Means of Samples when the Population Variance is Unknown
+
+Section 8: Analyzing Tables Using Pandas
+8.1. Storing Tables Using Basic Python
+8.2. Exploring Tables Using Pandas
+8.3. Retrieving Table Columns
+8.4. Retrieving Table Rows
+8.5. Modifying Table Rows and Columns
+8.6. Visualizing Tables Using Seaborn
+
+Section 9: Case Study 2 Solution
+9.1. Overview
+9.2. Processing the Ad-Click Table in Pandas
+9.3. Determining Statistical Significance
+9.4. Key Takeaways
+
+Case Study 3: Tracking Disease Outbreaks Using News Headlines
+
+Section 10: Clustering Data into Groups
+10.1. Using Centrality to Discover Clusters
+10.2 K-Means: A Clustering Algorithm for Grouping Data into K Central Groups
+10.3. Using Density to Discover Clusters
+10.4. DBSCAN: A Clustering Algorithm for Grouping Data Based on Spatial Density
+10.5. Analyzing Clusters Using Pandas
+
+Section 11: Geographic Location Visualization and Analysis
+
+11.1. The Great-Circle Distance: A Metric for Computing Distances Between 2 Global Points
+11.2. Plotting Maps Using Basemap
+11.3. Location Tracking Using GeoNamesCache
+11.4. Matching Location Names in Text
+
+Section 12: Case Study 3 Solution
+12.1. Overview
+12.2. Extracting Locations from Headline Data
+12.3. Visualizing and Clustering the Extracted Location Data
+12.4. Extracting Insights from Location Clusters
+12.5. Key Takeaways
+
+Case Study 4: Using Online Job Postings to Improve Your Data Science Resume
+
+Section 13: Measuring Text Similarities
+13.1 Simple Text Comparison
+13.2 Vectorizing Texts Using Word Counts
+13.3 Matrix Multiplication for Efficient Similarity Calculation
+13.4 Computation Limits of Matrix Multiplication
+
+Section 14: Dimension Reduction of Matrix Data
+14.1 Clustering 2D Data in 1-Dimension
+14.2 Dimension Reduction Using PCA and Scikit-Learn
+13.3 Clustering 4D Data in 2-Dimensions
+13.4 Computing Principal Components Without Rotation
+3.5 Efficient Dimensional Reduction Using SVD and Scikit-Learn
+
+Section 15: NLP Analysis of Large Text Datasets
+15.1 Loading Online Forum Discussions Using Scikit-Learn
+15.2 Vectorizing Documents Using Scikit-Learn
+15.3 Ranking Works by Both Post-Frequency and Count
+15.4 Computing Similarities Across Large Document Datasets
+15.5 Clustering Texts by Topic
+15.6 Visualizing Text Clusters
