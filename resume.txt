@@ -1,0 +1,16 @@
+Experience
+
+1. Developed probability simulations using NumPy.
+2. Assessed online ad-clicks for statistical significance using Permutation testing.
+3. Analyzed disease outbreaks using common clustering algorithms.
+
+Additional Skills
+
+1. Data visualization using Matplotlib.
+2. Statistical analysis using SciPy.
+3. Processing structured tables using Pandas.
+4. Executing K-Means clustering and DBSCAN clustering using Scikit-Learn.
+5. Extracting locations from text using GeonamesCache.
+6. Location analysis and visualization using GeonamesCache and Basemap.
+7. Dimensionality reduction with PCA and SVD, using Scikit-Learn.
+8. NLP analysis and text topic detection using Scikit-Learn.
